@@ -1,0 +1,1 @@
+when making carousel, may consider using photoshop to crop the img and apply the ratio as 16:6(or lower)
